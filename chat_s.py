@@ -1,3 +1,6 @@
+"""
+屏蔽功能
+"""
 from socket import *
 from multiprocessing import Process
 import re
